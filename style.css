@@ -15,12 +15,14 @@
     background: #5B302C;
     width: 263px;
     height: 407px;
-    left: 732px;
-    top: 355px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
     display: flex;
     align-items: center;
     justify-content: center; 
-    z-index: 3;
+    z-index: 1;
   }
   .another{
     
