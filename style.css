@@ -66,6 +66,21 @@
     text-align: center;
     color: #BF8B27;
   }
+
+  .scroll_down_text{
+    position: absolute;
+    width: 1012px;
+    height: 214px;
+    left: 121px;
+    top: 780px;
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 115px;
+    text-align: center;
+    color: #85919D;
+  }
   
 .container_1{
   background: #EEE7CD;
@@ -102,7 +117,7 @@
     background: #EEE7CD;
     display: flex;
     flex: end;
-    width: 1993px;
+    width: 2100px;
     height: 2021px;
     left: 7481px;}
 
@@ -412,3 +427,4 @@
     left: 8831px;
     top: 746px; 
   }
+
