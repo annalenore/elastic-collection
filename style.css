@@ -427,4 +427,15 @@
     left: 8831px;
     top: 746px; 
   }
-
+  .linkable_text{
+  color: #EEE7CD;
+  font-size: 20px;
+  font-family: 'Tomorrow';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  }

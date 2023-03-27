@@ -1,0 +1,18 @@
+<html>
+	<title>Another Door Opens</title>
+    <meta name="description" type="The doors on my walk home">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tomorrow">
+</head>
+	<body>
+		<h1>Door Data</h1>
+
+		<div id="door-list">
+			<!-- Doors get rendered here -->
+		</div>
+
+    <script src="data.json"></script>
+	</body>
+</html>
