@@ -141,6 +141,7 @@
     left: 320px;
     top: 1687px;
   }
+  
 
   .door_3{
     background:#EEAC5E;
@@ -439,3 +440,41 @@
   transform: translate(-50%, -50%);
   text-align: center;
   }
+.text_box{
+  position: absolute;
+  width: 886px;
+  height: 304px;
+  left: 796px;
+  top: 49px;
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-size: 5vw;
+  margin: auto;
+  padding: 10px;
+  color: #4E4E2F;
+  }
+  .text_box_2{
+  position: absolute;
+  width: 839px;
+  height: 707px;
+  left: 796px;
+  top: 330px;
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 3vw;
+  margin: auto;
+  padding: 10px;
+  color: #4E4E2F;
+  }
+.illustration_box{
+  background:#C89C61;
+  position: absolute;
+  display: flex;
+  flex: end;
+  width: 700px;
+  height: 900px;
+  left: 10px;
+  top: 40px;
+}
+
