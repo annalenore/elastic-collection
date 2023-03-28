@@ -458,8 +458,8 @@
   width: 839px;
   height: 707px;
   left: 796px;
-  top: 330px;
-  font-family: 'Helvetica';
+  top: 390px;
+  font-family: 'Tomorrow';
   font-style: normal;
   font-weight: 400;
   font-size: 3vw;
@@ -468,11 +468,11 @@
   color: #4E4E2F;
   }
 .illustration_box{
-  background:#C89C61;
+  background:#EEE7CD;
   position: absolute;
   display: flex;
   flex: end;
-  width: 700px;
+  width: 45 vw;
   height: 900px;
   left: 10px;
   top: 40px;
